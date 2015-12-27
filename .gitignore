@@ -21,3 +21,4 @@
 /config/avt_api_s3.yml
 /config/shards.yml
 debugger.json
+.DS_Store
